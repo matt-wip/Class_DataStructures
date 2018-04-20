@@ -1,0 +1,14 @@
+What is the status of your project?
+Part 1 is finished, working on part 2.
+
+
+What has each team done to ensure the success of the team?
+We worked together a lot of the time and aided each other. Here is a general breakdown of each team member's major contributions:
+Ashley: Created FileToSentences class, turned the input file contents into a list of sentences, removed excess punctuation
+  and new "enters/new lines" from contents, and added the -s functionality.
+Matt: Created SentenceCleaner class, implemented the stopwords.txt filtering, created ConvertToListList method, 
+  converted letters to lowercase, and used stemming for root words.
+
+
+What can each team member do going forward to ensure the success of the team?
+Keep up good communication and teamwork. Also, keep the git as up-to-date as possible. 

@@ -1,0 +1,12 @@
+What is the status of your project?
+Parts 1, 2, 3, and 5 are done. An initial draft of Part 4 is complete. The written answers will eventually be in projects.pdf
+and are currently being stored in FinalProject_WrittenAnswers.txt.
+
+
+What has each team member done to ensure the success of the team?
+We have split up the work and stay in communication to make sure progresss is being made.
+
+
+What can each team member do going forward to ensure the success of the team?
+Keep up good communication and try to stick to a schedule. Also, each team member should
+keep the git repository as up-to-date as possible.
